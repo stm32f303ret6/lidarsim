@@ -43,7 +43,7 @@ cd build
 cmake ..
 make
 ```
-This will compile **basic.pcd**, you can view it using tools like pcl_viewer
+This will generate **basic.pcd**, you can view it using tools like pcl_viewer
 ```bash
 sudo apt-get install pcl-tools
 pcl_viewer basic.pcd
